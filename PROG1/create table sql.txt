@@ -1,0 +1,1 @@
+create table emp(fname varchar(100),lname varchar(100),email varchar(100),phone varchar(100),age varchar(100),enpno varchar(100),salary varchar(100),dob varchar(100),joindate varchar(100),qual varchar(100),desig varchar(100),schedule varchar(100));
